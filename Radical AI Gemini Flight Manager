@@ -1,0 +1,14 @@
+Gemini Flight Manager
+
+Gemini Flight Manager is a comprehensive backend system built using FastAPI. Gemini Flgith Manager allows for managing and simulating flight-related operations. In addition, Gemini Flight Manger can be used for handling various aspects offlight management, including flight generation, search, and booking functionalities.
+
+The project leverages FastAPI's efficient and easy-to-use framework to create high performance tools for management.
+
+Some of the key features of Gemini Flight Manger include the ability to search flight topics including to and from destingations as well providing the ability to book and find associated costs.
+
+
+Step-by-Step Installation Guide
+git clone https://github.com/your-username/your-repository.git cd your-respitory
+
+Install Dependecies
+ pip install -r requirements.txt
